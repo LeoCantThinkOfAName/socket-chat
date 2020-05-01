@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f38e3ab.chunk.css",
+    "main.js": "/static/js/main.ad8c65b1.chunk.js",
+    "main.js.map": "/static/js/main.ad8c65b1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.597b7f10.js",
+    "runtime-main.js.map": "/static/js/runtime-main.597b7f10.js.map",
+    "static/js/2.5cd2e2cb.chunk.js": "/static/js/2.5cd2e2cb.chunk.js",
+    "static/js/2.5cd2e2cb.chunk.js.map": "/static/js/2.5cd2e2cb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ea848e2e4eed6b0009dee72c461a346e.js": "/precache-manifest.ea848e2e4eed6b0009dee72c461a346e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4f38e3ab.chunk.css.map": "/static/css/main.4f38e3ab.chunk.css.map",
+    "static/js/2.5cd2e2cb.chunk.js.LICENSE.txt": "/static/js/2.5cd2e2cb.chunk.js.LICENSE.txt",
+    "static/media/cheshire.png": "/static/media/cheshire.16569809.png",
+    "static/media/lucifer.png": "/static/media/lucifer.13a3910d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.597b7f10.js",
+    "static/js/2.5cd2e2cb.chunk.js",
+    "static/css/main.4f38e3ab.chunk.css",
+    "static/js/main.ad8c65b1.chunk.js"
+  ]
+}
