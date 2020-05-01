@@ -1,4 +1,4 @@
 {
-  "host": "socket-server-app.feathersjs.com",
+  "host": "https://caht-caht-chat.herokuapp.com",
   "port": "PORT"
 }
